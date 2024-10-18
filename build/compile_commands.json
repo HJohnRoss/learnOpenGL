@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/code/opengl/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\clang.exe  @CMakeFiles/glad.dir/includes_C.rsp -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\glad.dir\\libs\\glad\\src\\glad.c.obj -c D:\\code\\opengl\\libs\\glad\\src\\glad.c",
+  "file": "D:/code/opengl/libs/glad/src/glad.c",
+  "output": "CMakeFiles/glad.dir/libs/glad/src/glad.c.obj"
+},
+{
+  "directory": "D:/code/opengl/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE  @CMakeFiles/learnOpenGL.dir/includes_CXX.rsp -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\learnOpenGL.dir\\src\\main.cpp.obj -c D:\\code\\opengl\\src\\main.cpp",
+  "file": "D:/code/opengl/src/main.cpp",
+  "output": "CMakeFiles/learnOpenGL.dir/src/main.cpp.obj"
+}
+]
