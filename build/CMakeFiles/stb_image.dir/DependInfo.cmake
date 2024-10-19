@@ -8,8 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/code/opengl/src/main.cpp" "CMakeFiles/learnOpenGL.dir/src/main.cpp.obj" "gcc" "CMakeFiles/learnOpenGL.dir/src/main.cpp.obj.d"
-  "D:/code/opengl/src/stb_image.cpp" "CMakeFiles/learnOpenGL.dir/src/stb_image.cpp.obj" "gcc" "CMakeFiles/learnOpenGL.dir/src/stb_image.cpp.obj.d"
+  "D:/code/opengl/libs/stb_image/src/stb_image.cpp" "CMakeFiles/stb_image.dir/libs/stb_image/src/stb_image.cpp.obj" "gcc" "CMakeFiles/stb_image.dir/libs/stb_image/src/stb_image.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

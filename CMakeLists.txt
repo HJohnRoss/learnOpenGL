@@ -5,7 +5,13 @@ project(learnOpenGL)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 set(CMAKE_CXX_STANDARD 17)
 
-set(SOURCES src/main.cpp src/headers/shader_s.h)
+set(SOURCES
+	src/main.cpp
+	src/stb_image.cpp
+	)
+
+include_directories(libs/stb_image)
+link_directories(libs/stb_image)
 
 add_library(glfw STATIC IMPORTED)
 set_target_properties(glfw PROPERTIES IMPORTED_LOCATION "${PROJECT_SOURCE_DIR}/libs/glfw/lib-vc2022/glfw3.lib")

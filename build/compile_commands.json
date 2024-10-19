@@ -10,5 +10,11 @@
   "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE  @CMakeFiles/learnOpenGL.dir/includes_CXX.rsp -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\learnOpenGL.dir\\src\\main.cpp.obj -c D:\\code\\opengl\\src\\main.cpp",
   "file": "D:/code/opengl/src/main.cpp",
   "output": "CMakeFiles/learnOpenGL.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/code/opengl/build",
+  "command": "C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE  @CMakeFiles/learnOpenGL.dir/includes_CXX.rsp -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -std=gnu++17 -o CMakeFiles\\learnOpenGL.dir\\src\\stb_image.cpp.obj -c D:\\code\\opengl\\src\\stb_image.cpp",
+  "file": "D:/code/opengl/src/stb_image.cpp",
+  "output": "CMakeFiles/learnOpenGL.dir/src/stb_image.cpp.obj"
 }
 ]

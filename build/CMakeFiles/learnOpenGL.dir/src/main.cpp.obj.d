@@ -17,6 +17,17 @@ CMakeFiles/learnOpenGL.dir/src/main.cpp.obj: D:\code\opengl\src\main.cpp \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\concurrencysal.h \
   C:\Program\ Files\LLVM\lib\clang\18\include\vadefs.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vadefs.h \
+  D:\code\opengl\libs\stb_image\stb_image.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\stdio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_stdio_config.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\stdlib.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_malloc.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_search.h \
+  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdlib.h \
+  C:\Program\ Files\LLVM\lib\clang\18\include\limits.h \
+  C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\limits.h \
   D:\code\opengl\src\headers\shader_s.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\string \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\yvals_core.h \
@@ -27,15 +38,11 @@ CMakeFiles/learnOpenGL.dir/src/main.cpp.obj: D:\code\opengl\src\main.cpp \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\iosfwd \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\yvals.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\crtdbg.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime_new_debug.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vcruntime_new.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\crtdefs.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\use_ansi.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cstdio \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\stdio.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdio.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_stdio_config.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cstring \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\string.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_memory.h \
@@ -51,7 +58,6 @@ CMakeFiles/learnOpenGL.dir/src/main.cpp.obj: D:\code\opengl\src\main.cpp \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wio.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_share.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wprocess.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wstdlib.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_wtime.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\sys\stat.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\sys\types.h \
@@ -64,14 +70,9 @@ CMakeFiles/learnOpenGL.dir/src/main.cpp.obj: D:\code\opengl\src\main.cpp \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\type_traits \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cstdint \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\climits \
-  C:\Program\ Files\LLVM\lib\clang\18\include\limits.h \
-  C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\limits.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cstdlib \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\math.h \
   C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_math.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\stdlib.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_malloc.h \
-  C:\Program\ Files\ (x86)\Windows\ Kits\10\Include\10.0.22000.0\ucrt\corecrt_search.h \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xmemory \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\limits \
   C:\Program\ Files\Microsoft\ Visual\ Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\cfloat \

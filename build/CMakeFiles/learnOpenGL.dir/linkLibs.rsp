@@ -1,1 +1,1 @@
- "D:/code/opengl/libs/glfw/lib-vc2022/glfw3.lib" glad.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames 
+  -LD:/code/opengl/libs/stb_image  "D:/code/opengl/libs/glfw/lib-vc2022/glfw3.lib" glad.lib -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 -loldnames 

@@ -1,1 +1,1 @@
--ID:/code/opengl/libs/glad/include -isystem D:/code/opengl/libs/glfw/include
+-ID:/code/opengl/libs/stb_image -ID:/code/opengl/libs/glad/include -isystem D:/code/opengl/libs/glfw/include
