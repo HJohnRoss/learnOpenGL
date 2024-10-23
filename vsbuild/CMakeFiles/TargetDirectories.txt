@@ -1,0 +1,4 @@
+D:/code/opengl/vsbuild/CMakeFiles/glad.dir
+D:/code/opengl/vsbuild/CMakeFiles/learnOpenGL.dir
+D:/code/opengl/vsbuild/CMakeFiles/ALL_BUILD.dir
+D:/code/opengl/vsbuild/CMakeFiles/ZERO_CHECK.dir

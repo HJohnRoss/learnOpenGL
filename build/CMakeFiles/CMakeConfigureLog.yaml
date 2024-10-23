@@ -101,8 +101,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-h7x7ma"
-      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-h7x7ma"
+      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-ad12v5"
+      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-ad12v5"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_C_FLAGS: ""
@@ -111,22 +111,22 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-h7x7ma'
+        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-ad12v5'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_3ba54/fast
-        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_3ba54.dir\\build.make CMakeFiles/cmTC_3ba54.dir/build
-        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-h7x7ma'
-        Building C object CMakeFiles/cmTC_3ba54.dir/CMakeCCompilerABI.c.obj
-        C:\\PROGRA~1\\LLVM\\bin\\clang.exe   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_3ba54.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_3ba54.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles\\cmTC_3ba54.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
-        Linking C executable cmTC_3ba54.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_3ba54.dir\\link.txt --verbose=1
-        C:\\PROGRA~1\\LLVM\\bin\\clang.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -v -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_3ba54.dir\\objects1.rsp -o cmTC_3ba54.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_3ba54.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-h7x7ma\\cmTC_3ba54.pdb -Xlinker /version:0.0 
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_90d46/fast
+        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_90d46.dir\\build.make CMakeFiles/cmTC_90d46.dir/build
+        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-ad12v5'
+        Building C object CMakeFiles/cmTC_90d46.dir/CMakeCCompilerABI.c.obj
+        C:\\PROGRA~1\\LLVM\\bin\\clang.exe   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_90d46.dir/CMakeCCompilerABI.c.obj -MF CMakeFiles\\cmTC_90d46.dir\\CMakeCCompilerABI.c.obj.d -o CMakeFiles\\cmTC_90d46.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCCompilerABI.c"
+        Linking C executable cmTC_90d46.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_90d46.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\clang.exe -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -v -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_90d46.dir\\objects1.rsp -o cmTC_90d46.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_90d46.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ad12v5\\cmTC_90d46.pdb -Xlinker /version:0.0 
         clang version 18.1.8
         Target: x86_64-pc-windows-msvc
         Thread model: posix
         InstalledDir: C:\\PROGRA~1\\LLVM\\bin
-         "C:\\\\PROGRA~1\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_3ba54.exe "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\lib\\\\x64" "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\um\\\\x64" "-libpath:C:\\\\Program Files\\\\LLVM\\\\lib\\\\clang\\\\18\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_3ba54.dir/CMakeCCompilerABI.c.obj /MANIFEST:EMBED /implib:cmTC_3ba54.lib "/pdb:D:\\\\code\\\\opengl\\\\build\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-h7x7ma\\\\cmTC_3ba54.pdb" /version:0.0
-        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-h7x7ma'
+         "C:\\\\PROGRA~1\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_90d46.exe "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\lib\\\\x64" "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\um\\\\x64" "-libpath:C:\\\\Program Files\\\\LLVM\\\\lib\\\\clang\\\\18\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_90d46.dir/CMakeCCompilerABI.c.obj /MANIFEST:EMBED /implib:cmTC_90d46.lib "/pdb:D:\\\\code\\\\opengl\\\\build\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-ad12v5\\\\cmTC_90d46.pdb" /version:0.0
+        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-ad12v5'
         
       exitCode: 0
   -
@@ -187,8 +187,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-f8b65q"
-      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-f8b65q"
+      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-mv2hmv"
+      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-mv2hmv"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -198,22 +198,22 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-f8b65q'
+        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-mv2hmv'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_2ee64/fast
-        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_2ee64.dir\\build.make CMakeFiles/cmTC_2ee64.dir/build
-        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-f8b65q'
-        Building CXX object CMakeFiles/cmTC_2ee64.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_2ee64.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_2ee64.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_2ee64.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
-        Linking CXX executable cmTC_2ee64.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_2ee64.dir\\link.txt --verbose=1
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -v -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_2ee64.dir\\objects1.rsp -o cmTC_2ee64.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_2ee64.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-f8b65q\\cmTC_2ee64.pdb -Xlinker /version:0.0 
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_0eb29/fast
+        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_0eb29.dir\\build.make CMakeFiles/cmTC_0eb29.dir/build
+        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-mv2hmv'
+        Building CXX object CMakeFiles/cmTC_0eb29.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -MD -MT CMakeFiles/cmTC_0eb29.dir/CMakeCXXCompilerABI.cpp.obj -MF CMakeFiles\\cmTC_0eb29.dir\\CMakeCXXCompilerABI.cpp.obj.d -o CMakeFiles\\cmTC_0eb29.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-3.30\\Modules\\CMakeCXXCompilerABI.cpp"
+        Linking CXX executable cmTC_0eb29.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_0eb29.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd  -v -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_0eb29.dir\\objects1.rsp -o cmTC_0eb29.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_0eb29.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-mv2hmv\\cmTC_0eb29.pdb -Xlinker /version:0.0 
         clang version 18.1.8
         Target: x86_64-pc-windows-msvc
         Thread model: posix
         InstalledDir: C:\\PROGRA~1\\LLVM\\bin
-         "C:\\\\PROGRA~1\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_2ee64.exe "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\lib\\\\x64" "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\um\\\\x64" "-libpath:C:\\\\Program Files\\\\LLVM\\\\lib\\\\clang\\\\18\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_2ee64.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_2ee64.lib "/pdb:D:\\\\code\\\\opengl\\\\build\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-f8b65q\\\\cmTC_2ee64.pdb" /version:0.0
-        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-f8b65q'
+         "C:\\\\PROGRA~1\\\\LLVM\\\\bin\\\\lld-link" -out:cmTC_0eb29.exe "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\lib\\\\x64" "-libpath:C:\\\\Program Files\\\\Microsoft Visual Studio\\\\2022\\\\Community\\\\VC\\\\Tools\\\\MSVC\\\\14.41.34120\\\\atlmfc\\\\lib\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\ucrt\\\\x64" "-libpath:C:\\\\Program Files (x86)\\\\Windows Kits\\\\10\\\\Lib\\\\10.0.22000.0\\\\um\\\\x64" "-libpath:C:\\\\Program Files\\\\LLVM\\\\lib\\\\clang\\\\18\\\\lib\\\\windows" -nologo -debug /subsystem:console CMakeFiles/cmTC_0eb29.dir/CMakeCXXCompilerABI.cpp.obj /MANIFEST:EMBED /implib:cmTC_0eb29.lib "/pdb:D:\\\\code\\\\opengl\\\\build\\\\CMakeFiles\\\\CMakeScratch\\\\TryCompile-mv2hmv\\\\cmTC_0eb29.pdb" /version:0.0
+        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-mv2hmv'
         
       exitCode: 0
   -
@@ -277,8 +277,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-oo8uy1"
-      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-oo8uy1"
+      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-gi0e9v"
+      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-gi0e9v"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -287,17 +287,17 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: true
       stdout: |
-        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-oo8uy1'
+        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-gi0e9v'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_17183/fast
-        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_17183.dir\\build.make CMakeFiles/cmTC_17183.dir/build
-        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-oo8uy1'
-        Building CXX object CMakeFiles/cmTC_17183.dir/feature_tests.cxx.obj
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_17183.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_17183.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_17183.dir\\feature_tests.cxx.obj -c D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oo8uy1\\feature_tests.cxx
-        Linking CXX executable cmTC_17183.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_17183.dir\\link.txt --verbose=1
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_17183.dir\\objects1.rsp -o cmTC_17183.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_17183.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-oo8uy1\\cmTC_17183.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_17183.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-oo8uy1'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5f91e/fast
+        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_5f91e.dir\\build.make CMakeFiles/cmTC_5f91e.dir/build
+        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-gi0e9v'
+        Building CXX object CMakeFiles/cmTC_5f91e.dir/feature_tests.cxx.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_5f91e.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_5f91e.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_5f91e.dir\\feature_tests.cxx.obj -c D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gi0e9v\\feature_tests.cxx
+        Linking CXX executable cmTC_5f91e.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_5f91e.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_5f91e.dir\\objects1.rsp -o cmTC_5f91e.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_5f91e.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-gi0e9v\\cmTC_5f91e.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_5f91e.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-gi0e9v'
         
       exitCode: 0
   -
@@ -312,8 +312,8 @@ events:
     checks:
       - "Detecting CXX compile features"
     directories:
-      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-p4j56d"
-      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-p4j56d"
+      source: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-nbi4pw"
+      binary: "D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-nbi4pw"
     cmakeVariables:
       CMAKE_CXX_COMPILER_CLANG_SCAN_DEPS: "C:/Program Files/LLVM/bin/clang-scan-deps.exe"
       CMAKE_CXX_FLAGS: ""
@@ -322,17 +322,17 @@ events:
       variable: "CMAKE_CXX_FEATURE_TEST"
       cached: true
       stdout: |
-        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-p4j56d'
+        Change Dir: 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-nbi4pw'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5cb6f/fast
-        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_5cb6f.dir\\build.make CMakeFiles/cmTC_5cb6f.dir/build
-        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-p4j56d'
-        Building CXX object CMakeFiles/cmTC_5cb6f.dir/feature_tests.cxx.obj
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_5cb6f.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_5cb6f.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_5cb6f.dir\\feature_tests.cxx.obj -c D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p4j56d\\feature_tests.cxx
-        Linking CXX executable cmTC_5cb6f.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_5cb6f.dir\\link.txt --verbose=1
-        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_5cb6f.dir\\objects1.rsp -o cmTC_5cb6f.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_5cb6f.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-p4j56d\\cmTC_5cb6f.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_5cb6f.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-p4j56d'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_02403/fast
+        C:/ProgramData/mingw64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_02403.dir\\build.make CMakeFiles/cmTC_02403.dir/build
+        mingw32-make[1]: Entering directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-nbi4pw'
+        Building CXX object CMakeFiles/cmTC_02403.dir/feature_tests.cxx.obj
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE   -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd   -std=c++14 -MD -MT CMakeFiles/cmTC_02403.dir/feature_tests.cxx.obj -MF CMakeFiles\\cmTC_02403.dir\\feature_tests.cxx.obj.d -o CMakeFiles\\cmTC_02403.dir\\feature_tests.cxx.obj -c D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nbi4pw\\feature_tests.cxx
+        Linking CXX executable cmTC_02403.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_02403.dir\\link.txt --verbose=1
+        C:\\PROGRA~1\\LLVM\\bin\\CLANG_~1.EXE -nostartfiles -nostdlib -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -Xlinker /subsystem:console -fuse-ld=lld-link @CMakeFiles\\cmTC_02403.dir\\objects1.rsp -o cmTC_02403.exe -Xlinker /MANIFEST:EMBED -Xlinker /implib:cmTC_02403.lib -Xlinker /pdb:D:\\code\\opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nbi4pw\\cmTC_02403.pdb -Xlinker /version:0.0  @CMakeFiles\\cmTC_02403.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'D:/code/opengl/build/CMakeFiles/CMakeScratch/TryCompile-nbi4pw'
         
       exitCode: 0
 ...
